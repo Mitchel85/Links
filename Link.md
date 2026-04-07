@@ -5,9 +5,9 @@
 Hier findest du alle im Buch erwähnten Tools, Plattformen und die spezifischen Code-Repositories für deine Umsetzung.
 
 ## 📁 Buch-Ressourcen & Vorlagen (GitHub)
-* **[Doc2Prompt](https://github.com/Mitchel85/Doc2Prompt)** – Das Tool zur schnellen Text-Extraktion aus Office- und PDF-Dokumenten für lokale KIs.
-* **[Demo-Cockpit (Basis)](https://github.com/Mitchel85/Demo-Cockpit)** – Die statische Grundstruktur für dein Firmen-Dashboard.
-* **[Demo-Cockpit (Smart)](https://github.com/Mitchel85/Demo_Cockpit_smart)** – Der vollständige Code für das intelligente Cockpit mit API-Anbindung.
+* **[Doc2Prompt](https://github.com/Mitchel85/Doc2Prompt)** – Das Tool zur schnellen Text-Extraktion aus Office- und PDF-Dokumenten für lokale KIs. | 🔗 **[Zur Live-Homepage](https://mitchel85.github.io/Doc2Prompt/)**
+* **[Demo-Cockpit (Basis)](https://github.com/Mitchel85/Demo-Cockpit)** – Die statische Grundstruktur für dein Firmen-Dashboard. | 🔗 **[Zur Live-Homepage](https://mitchel85.github.io/Demo-Cockpit/)**
+* **[Demo-Cockpit (Smart)](https://github.com/Mitchel85/Demo_Cockpit_smart)** – Der vollständige Code für das intelligente Cockpit mit API-Anbindung. | 🔗 **[Zur Live-Homepage](https://mitchel85.github.io/Demo_Cockpit_smart/)**
 
 ## 🤖 KI-Modelle & Plattformen
 * **[Ollama](https://ollama.com)** – Lokale KI-Modelle herunterladen und ausführen (100% Datenschutz).
@@ -39,4 +39,4 @@ Hier findest du alle im Buch erwähnten Tools, Plattformen und die spezifischen 
 * **[Notion](https://notion.so)** | **[Obsidian](https://obsidian.md)**
 
 ---
-*Zusammengestellt von Michael Estel für: Das 0-Euro Cockpit
+*Zusammengestellt von Michael Estel für: Das 0-Euro Cockpit*
