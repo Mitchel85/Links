@@ -17,6 +17,12 @@ Hier findest du alle im Buch erwähnten Tools, Plattformen und die spezifischen 
 * **[OpenRouter](https://openrouter.ai)** – Schnittstelle für verschiedene Cloud-Modelle (ideal zur Umgehung von CORS-Problemen).
 * **[Grok](https://grok.x.ai)** – KI-Modell von xAI.
 
+## 🔑 API-Schlüssel & Modell-Dokumentationen (Für Kapitel 5)
+* **Ollama:** **[Modell-Bibliothek (Ollama Library)](https://ollama.com/library)**
+* **OpenAI (ChatGPT):** **[API-Keys erstellen](https://platform.openai.com/api-keys)** | **[Aktuelle Modelle](https://platform.openai.com/docs/models)**
+* **Google Gemini:** **[API-Keys erstellen](https://aistudio.google.com/app/apikey)** | **[Aktuelle Modelle](https://ai.google.dev/models/gemini)**
+* **OpenRouter:** **[API-Keys erstellen](https://openrouter.ai/keys)** | **[Aktuelle Modelle](https://openrouter.ai/docs/models)**
+
 ## 📝 Texteditoren (Dein Handwerkszeug)
 * **[Notepad++](https://notepad-plus-plus.org/)** – Kostenloser, funktionsreicher Texteditor (für Windows).
 * **[Visual Studio Code](https://code.visualstudio.com/)** – Mächtiger und kostenloser Code-Editor von Microsoft.
@@ -32,9 +38,15 @@ Hier findest du alle im Buch erwähnten Tools, Plattformen und die spezifischen 
 
 ## ⚙️ Automatisierung & KI-Agenten
 * **[n8n](https://n8n.io)** – Visuelles Tool zur Workflow-Automatisierung.
-* **[OpenClaw](https://github.com/openclaw/openclaw)** – Open-Source-Plattform für autonome KI-Agenten.
+* **[OpenClaw](https://github.com/openclaw/openclaw)** – Open-Source-Plattform für autonome KI-Agenten. | 🔗 **[Zur Dokumentation](https://docs.openclaw.ai/start/getting-started)**
 
-## 💰 Erwähnte Finanz- & Analyse-Tools (Die "Champions League")
+## 🏢 Erwähnte Enterprise- & Analyse-Tools (Die "Champions League")
+**Enterprise Architecture Management (EAM):**
+* **[SAP LeanIX](https://www.leanix.net/)**
+* **[Bizzdesign](https://bizzdesign.com/)**
+* **[Ardoq](https://www.ardoq.com/)**
+
+**Finanz- & Analyse-Cockpits:**
 * **[Abacum](https://www.abacum.io/)**
 * **[Agicap](https://agicap.com/)**
 * **[Fathom](https://www.fathomhq.com/)**
@@ -47,5 +59,3 @@ Hier findest du alle im Buch erwähnten Tools, Plattformen und die spezifischen 
 
 ## 🧠 Wissens-Management
 * **[Notion](https://notion.so)** | **[Obsidian](https://obsidian.md)**
-
----
